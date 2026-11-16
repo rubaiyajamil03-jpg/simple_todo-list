@@ -4,7 +4,7 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[View the live project](https://my-todo-list-2002.netlify.app/)
+(https://my-todo-list-2002.netlify.app/)
 
 ## Features
 
